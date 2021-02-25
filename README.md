@@ -28,6 +28,8 @@ g,a,b,c,d,e,f,h
 inside thread:
 G,H
 
+Diameters for screw thread forum greater 9.99mm up to 1000mm
+
 Tolerance grades for screw thread:
 01,0,1,2,3,4,5,6,7,8,9
 
