@@ -13,10 +13,10 @@ a, b, c, cd, e, ef, f, fg, g, h, js, j, k, m, n, p, r, s, t, u, v, x, y, z, za, 
 bore:
 A, B, C, CD, E, EF, F, FG, G, H, JS, J, K, M, N, P, R, S, T, U, V, X, Y, Z, ZA, ZB, ZC
 
-From IT 9 up IT 13 nominal dimensions for greater 3 mm up to 500 mm
-
 Tolerancelasses cd, CD, ef,EF,fg, FG, j,J,k,K 
 greater 3 mm up to 500 mm
+
+Other Tolerance classes up to 3150mm
 
 This tolerance grades are included:
 01, 0,1,2,3,4,5,6,7,8,9,10 up to 18
